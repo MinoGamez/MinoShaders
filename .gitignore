@@ -71,3 +71,7 @@ Build_In_Proj/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
 # Temporary auto-generated Android Assets
 Build_In_Proj/[Aa]ssets/[Ss]treamingAssets/aa.meta
 Build_In_Proj/[Aa]ssets/[Ss]treamingAssets/aa/*
+Build_In_Proj/.idea/.idea.Build_In_Proj/.idea/.gitignore
+Build_In_Proj/.idea/.idea.Build_In_Proj/.idea/encodings.xml
+Build_In_Proj/.idea/.idea.Build_In_Proj/.idea/indexLayout.xml
+Build_In_Proj/.idea/.idea.Build_In_Proj/.idea/vcs.xml
